@@ -8,13 +8,14 @@
 Все это, а также многое другое мы рассказываем на наших курсах для школьников.
 
 ## Программа
-1. [Как работают веб-приложения](l1.md)
-2. [Cross Site Scripting](l2.md)
+1. [Как работают веб-приложения](l1.md).
+2. [Cross Site Scripting](l2.md).
 
 ## Спроси о чем угодно
 Ты можешь спросить нашу команду о чем угодно, если это о компьютерной безопасности, а мы попробуем тебе ответить.
-#### [Задать вопрос](https://github.com/sibears/school/issues)
-#### [Читать ответы](https://github.com/sibears/school/issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
+* [Задать вопрос](https://github.com/sibears/school/issues)
+* [Читать ответы](https://github.com/sibears/school/issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
+
 
 ## Ссылки
 1. [Презентация "Школы юного безопасника"](schoolctf.pdf)
