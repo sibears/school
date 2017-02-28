@@ -22,6 +22,7 @@
 12. [Введение в язык python](programming/l1.md)
 13. [Web scraping](programming/l2.md)
 14. [Exceptions && Sockets](programming/l3.md)
+15. [Практика](programming/l4.md)
 
 ## Спроси о чем угодно
 Ты можешь спросить нашу команду о чем угодно, если это о компьютерной безопасности, а мы попробуем тебе ответить.
