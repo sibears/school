@@ -27,7 +27,8 @@
 17. [Наследование в ООП](programming/l6.md)
 18. [ООП | Практика](programming/l7.md)
 19. [Работа с изображениями | PIL](programming/l8.md)
-20. [Attack and Defense CTF -- Intro](attackndefense/l0.md)
+20. [Attack and Defense CTF | Intro](attackndefense/l0.md)
+20. [Attack and Defense CTF | VM](attackndefense/l1.md)
 
 ## Спроси о чем угодно
 Ты можешь спросить нашу команду о чем угодно, если это о компьютерной безопасности, а мы попробуем тебе ответить.
