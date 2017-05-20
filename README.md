@@ -31,6 +31,7 @@
 21. [Attack and Defense CTF | VM](attackndefense/l1.md)
 22. [Attack and Defense CTF | Exploitation](attackndefense/l2.md)
 23. [Attack and Defense CTF | Vulnerabilities](attackndefense/l3.md)
+24. [Attack and Defense CTF | Services](attackndefense/l4.md)
 
 ## Спроси о чем угодно
 Ты можешь спросить нашу команду о чем угодно, если это о компьютерной безопасности, а мы попробуем тебе ответить.
