@@ -10,6 +10,7 @@
 ## Программа
 
 1. [How to Become a Security Researcher](https://github.com/tsu-iscd/How-to-Become-a-Security-Researcher).
+2. [Введение с С](computer_science/1-2.md)
 
 ## Архив
 [Программа 2016-2017 г.](https://github.com/sibears/school/tree/master/2016)
