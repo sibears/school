@@ -23,7 +23,7 @@
 
 `0`.  <details><summary> Задание 0</summary>
 
-```
+```assembly
     mov eax, 81
     mov ebx, 49
     div 10
@@ -37,7 +37,7 @@
 
 `1`.  <details><summary> Задание 1</summary>
 
-```
+```assembly
 	mov [0xAABBCC10], 6
 	mov [0xAABBCC08], 1
 	mov [0xAABBCC04], 1
@@ -58,7 +58,7 @@
 
 `2`.* <details><summary> Задание 2</summary>
 
-```
+```assembly
 	_start:
 		mov [0x1337], 0x62
 		mov [0x1338], 0x65
