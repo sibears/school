@@ -74,7 +74,7 @@
 		mov [0x1342], 0xd9
 		mov [0x1343], 0x5d
 		mov edx, 13
-		mov ebx, 0x1
+		mov ebx, 0x1337
 		xor eax, eax
 		xor ecx, ecx
 		jmp .C
