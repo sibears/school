@@ -27,31 +27,31 @@
 ```assembly
 foo:
     call bar
-    mov rbx, 7
-    mul [rsp+8]
-    lea rbx, [rbx * 4]
-    add rax, rbx
+    mov ebx, 7
+    mul [esp+4]
+    lea ebx, [ebx * 4]
+    add eax, ebx
     ret
 
 bar:
-    mov rax, 328
-    mov rcx, 3
+    mov eax, 328
+    mov ecx, 3
 bar.while:
     div 2
-    dec rcx
-    test rcx, rcx
+    dec ecx
+    test ecx, ecx
     jnz bar.while
     ret
 
 start:
     push 4
     call foo
-    cmp rax, 200
+    cmp eax, 200
     jg exit
-    mul rbx
+    mul ebx
 exit:
 
-    rax == ?
+    eax == ?
 ```
 </details>
 
