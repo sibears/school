@@ -14,6 +14,7 @@
 3. [CS | Указатели](computer_science/l3.md)
 4. [CS | Тест](computer_science/l4.md)
 5. [ASM | Введение](asm/asm1.md)
+6. [ASM | Продолжение](asm/asm2.md)
 
 ## Архив
 [Программа 2016-2017 г.](https://github.com/sibears/school/tree/master/2016)
