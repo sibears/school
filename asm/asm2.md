@@ -140,5 +140,6 @@ Label5:
 finish:
 	
 	Чему будет равен eax на метке finish?
+
 ```
 </details>
