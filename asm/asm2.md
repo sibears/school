@@ -74,20 +74,21 @@ exit:
 
 <details><summary> Задание 0</summary>
 ``` assembly
-	mov [0xAABBCCCD], 0x11C0FFEE
-	mov [0xAABBCCD1], 0x12345678
-	mov [0xAABBCCD5], 0xCAFEBABE
-	mov [0xAABBCCD9], 0xDEADBEEF
-	lea edi, [0xAABBCCDD]
-	lea esi, [0xAABBCCD9]
-	xor ebx, ebx
-	l1:
-	    mov eax, DWORD [esi]
-	    mov [edi], eax
-	    sub esi, 4
-	    add ebx, 4
-	    cmp ebx, 0x10
-	    jl l1
+	
+mov [0xAABBCCCD], 0x11C0FFEE
+mov [0xAABBCCD1], 0x12345678
+mov [0xAABBCCD5], 0xCAFEBABE
+mov [0xAABBCCD9], 0xDEADBEEF
+lea edi, [0xAABBCCDD]
+lea esi, [0xAABBCCD9]
+xor ebx, ebx
+l1:
+	mov eax, DWORD [esi]
+	mov [edi], eax
+	sub esi, 4
+	add ebx, 4
+	cmp ebx, 0x10
+	jl l1
 	
 	Что будет в ячейке [0xAABBCCD5]?
 ```
