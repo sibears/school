@@ -94,7 +94,7 @@ l1:
 ```
 </details>
 
-<details><summary>Задание 1</sumamry>
+<details><summary>Задание 1</summary>
 	
 ``` assembly
 xor eax, eax
