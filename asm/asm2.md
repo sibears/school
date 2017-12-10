@@ -73,8 +73,8 @@ exit:
 ## Задания с контрольной:
 
 <details><summary> Задание 0</summary>
-``` assembly
 	
+``` assembly	
 mov [0xAABBCCCD], 0x11C0FFEE
 mov [0xAABBCCD1], 0x12345678
 mov [0xAABBCCD5], 0xCAFEBABE
@@ -95,8 +95,9 @@ l1:
 </details>
 
 <details><summary> Задание 1 </sumamry>
+	
 ``` assembly
-	xor eax, eax
+xor eax, eax
 xor ebx, ebx
 xor ecx, ecx
 xor edx, edx
