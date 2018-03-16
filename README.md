@@ -18,6 +18,7 @@
 7. [ASM | Reverse Engeneering](asm/asm3.md)
 8. [WEB | Введение](web/web1.md)
 9. [WEB | JS](web/web2.md)
+10. [WEB| XSS](web/web3.md)
 
 ## Архив
 [Программа 2016-2017 г.](https://github.com/sibears/school/tree/master/2016)
