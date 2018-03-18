@@ -27,7 +27,7 @@
 
 ## Справочные материалы
 1. [OWASP XSS Filter Evasion Cheat Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet).
-2. [XSS Cheat Sheet](http://brutelogic.com.br/blog/cheat-sheet/).
+2. [XSS Cheat Sheet](https://brutelogic.com.br/blog/xss-cheat-sheet/).
 3. [OWASP Cross-site Scripting (XSS) Attack](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)).
 4. Списки BugBounty программ:
     - [BugCrowd](https://www.bugcrowd.com/bug-bounty-list/)
