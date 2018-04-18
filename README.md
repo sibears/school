@@ -21,7 +21,7 @@
 10. [WEB | XSS](web/web3.md)
 11. [PPC | Введение в Python](programming/l1.md)
 12. [PPC | Функции в Python](programming/l2.md)
-13. [PPC | Функции в Python](programming/l3.md)
+13. [PPC | Ошибки и исключения](programming/l3.md)
 
 ## Архив
 [Программа 2016-2017 г.](https://github.com/sibears/school/tree/master/2016)
