@@ -12,6 +12,7 @@
 Coming soon ... 
 
 ## Архив
+[Программа 2017-2018 г.](https://github.com/sibears/school/tree/master/2017)
 [Программа 2016-2017 г.](https://github.com/sibears/school/tree/master/2016)
 
 ## Спроси о чем угодно
