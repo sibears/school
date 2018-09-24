@@ -1,6 +1,6 @@
 # Sibears Young School
 
-## Программа 201-2018 г.
+## Программа 2017-2018 г.
 
 1. [How to Become a Security Researcher](https://github.com/tsu-iscd/How-to-Become-a-Security-Researcher).
 2. [CS | Введение в С](computer_science/1-2.md)
