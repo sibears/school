@@ -8,7 +8,8 @@
 Все это, а также многое другое мы рассказываем на наших курсах для школьников.
 
 ## Программа
-[Python | Введение в язык](programming/l1.md)
+[1. Python | Введение в язык](programming/l1.md)  
+[2. Python | Web-scraping](programming/l2.md)
 
 ## Архив
 [Программа 2017-2018 г.](https://github.com/sibears/school/tree/master/2017)  
