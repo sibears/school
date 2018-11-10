@@ -10,7 +10,8 @@
 ## Программа
 [1. Python | Введение в язык](programming/l1.md)  
 [2. Python | Web-scraping](programming/l2.md)  
-[3. Python | Сокеты](programming/l3.md)
+[3. Python | Сокеты](programming/l3.md)  
+[4. Python | Ошибки и исключения](programming/l4.md)
 
 ## Архив
 [Программа 2017-2018 г.](https://github.com/sibears/school/tree/master/2017)  
