@@ -12,7 +12,8 @@
 [2. Python | Web-scraping](programming/l2.md)  
 [3. Python | Сокеты](programming/l3.md)  
 [4. Python | Ошибки и исключения](programming/l4.md)  
-[5. Crypto | Классическая криптография](cryptography/l1.md).
+[5. Crypto | Классическая криптография](cryptography/l1.md).  
+[6. Stego  | Стеганография](steganography/l1.md)
 
 ## Архив
 [Программа 2017-2018 г.](https://github.com/sibears/school/tree/master/2017)  
