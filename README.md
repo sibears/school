@@ -8,13 +8,13 @@
 Все это, а также многое другое мы рассказываем на наших курсах для школьников.
 
 ## Программа
-[1. Python | Введение в язык](programming/l1.md)  
-[2. Python | Web-scraping](programming/l2.md)  
-[3. Python | Сокеты](programming/l3.md)  
-[4. Python | Ошибки и исключения](programming/l4.md)  
-[5. Crypto | Классическая криптография](cryptography/l1.md).  
-[6. Stego  | Стеганография](steganography/l1.md)
-[7. Crypto  | Основные понятия криптографии](cryptography/l2.md)
+[1. Python | Введение в язык](programming/l1.md)
+[2. Python | Web-scraping](programming/l2.md)
+[3. Python | Сокеты](programming/l3.md)
+[4. Python | Ошибки и исключения](programming/l4.md)
+[5. Crypto | Классическая криптография](cryptography/l1.md) 
+[6. Stego  | Стеганография](steganography/l1.md)<br>
+[7. Crypto | Основные понятия криптографии](cryptography/l2.md)
 
 ## Архив
 [Программа 2017-2018 г.](https://github.com/sibears/school/tree/master/2017)  
