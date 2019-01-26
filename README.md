@@ -18,6 +18,7 @@
 [8. Crypto | Современные шифрсистемы и их классификация](cryptography/l3.md)<br>
 [9. ML | Введение в МЛ и безопасность в нем](ml/l1.md)<br>
 [10. ML | Сверточные нейронные сети](ml/l2.md)<br>
+[11. WEB | Введение](web/l1.md)<br>
 
 ## Архив
 [Программа 2017-2018 г.](https://github.com/sibears/school/tree/master/2017)  
