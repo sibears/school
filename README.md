@@ -24,6 +24,7 @@
 [14. WEB | SQL-инъекции](web/l4.md)<br>
 [15. *NIX | Основы UNIX](unix/l1.md)<br>
 [16. TRPO | Основы](trpo/l1.md)<br>
+[17. TRPO | GIT](trpo/l2.md)<br>
 
 ## Архив
 [Программа 2017-2018 г.](https://github.com/sibears/school/tree/master/2017)  
