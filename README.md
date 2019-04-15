@@ -26,7 +26,7 @@
 [16. TRPO | Основы](trpo/l1.md)<br>
 [17. TRPO | GIT](trpo/l2.md)<br>
 [18. TRPO | Тестирование](trpo/l3.md)<br>
-
+[19. TRPO | Практика](trpo/l4.md)<br>
 
 ## Архив
 [Программа 2017-2018 г.](https://github.com/sibears/school/tree/master/2017)  
