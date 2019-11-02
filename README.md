@@ -11,7 +11,7 @@
 [1. CPP | Введение в язык](c/l1.md)<br>
 [2. CPP | Указатели](c/l2.md)<br>
 [3. CPP | Переполнение буффера](c/l3.md)<br>
-
+[4. CPP | Побитовые операции](c/l3.md)<br>
 
 ## Архив
 [Программа 2017-2018 г.](https://github.com/sibears/school/tree/master/2017)  
