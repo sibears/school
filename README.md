@@ -12,8 +12,10 @@
 [2. CPP | Указатели](c/l2.md)<br>
 [3. CPP | Переполнение буффера](c/l3.md)<br>
 [4. CPP | Побитовые операции](c/l4.md)<br>
+[5. NIX | Основы UNIX](unix/l5.md)<br>
 
 ## Архив
+[Программа 2018-2019 г.](https://github.com/sibears/school/tree/master/2018)  
 [Программа 2017-2018 г.](https://github.com/sibears/school/tree/master/2017)  
 [Программа 2016-2017 г.](https://github.com/sibears/school/tree/master/2016)
 
