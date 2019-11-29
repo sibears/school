@@ -13,6 +13,7 @@
 [3. CPP | Переполнение буффера](c/l3.md)<br>
 [4. CPP | Побитовые операции](c/l4.md)<br>
 [5. NIX | Основы UNIX](unix/l5.md)<br>
+[6. NIX | Файлы и система прав в UNIX](unix/l6.md)<br>
 
 ## Архив
 [Программа 2018-2019 г.](https://github.com/sibears/school/tree/master/2018)  
