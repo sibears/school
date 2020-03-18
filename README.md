@@ -18,6 +18,7 @@
 [8. ASM | Снова основы](asm/l8.md)<br>
 [9. RVRS | Мягкое введение в реверс](reverse/l9.md)<br>
 [10. RVRS | Потыкали палкой IDAPro](reverse/l10/l10.md)<br>
+[11. RVRS | Практика](reverse/l12/l12.md)<br>
 
 ## Архив
 [Программа 2018-2019 г.](https://github.com/sibears/school/tree/master/2018)  
